@@ -1,0 +1,37 @@
+{
+  "templates": [
+    {
+      "title":"Abuse",
+      "url":"https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt"
+    },
+    {
+      "title":"Ads",
+      "url":"https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt"
+    },
+    { "title":"Drugs",
+      "url":"https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt"
+    },
+    {
+      "title":"Fraud",
+      "url":"https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt"
+    },
+    {
+      "title":"Malware",  
+      "url":"https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt"
+    },
+    { "title":"Phishing",
+      "url":"https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt"
+    },
+    {
+      "title":"Ransomware",
+      "url":"https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt"
+    },
+    {
+      "title":"Redirect",  
+      "url":"https://blocklistproject.github.io/Lists/alt-version/redirect-nl.txt"
+    },
+    { "title":"Scam",
+      "url":"https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt"
+    }
+  ]
+}
