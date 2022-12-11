@@ -1,5 +1,5 @@
 {
-  "templates": [
+  "blackList": [
     {
       "title":"Abuse",
       "url":"https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt"
@@ -16,7 +16,7 @@
       "url":"https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt"
     },
     {
-      "title":"Malware",  
+      "title":"Malware",
       "url":"https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt"
     },
     { "title":"Phishing",
@@ -27,11 +27,17 @@
       "url":"https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt"
     },
     {
-      "title":"Redirect",  
+      "title":"Redirect",
       "url":"https://blocklistproject.github.io/Lists/alt-version/redirect-nl.txt"
     },
     { "title":"Scam",
       "url":"https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt"
+    }
+  ],
+  "whiteList":[
+    {
+      "title":"whitelist_children"
+      "url":"https://github.com/mbunse/whitelist_children/blob/master/whitelist.txt"
     }
   ]
 }
