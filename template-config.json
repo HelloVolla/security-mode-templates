@@ -36,7 +36,7 @@
   ],
   "whiteList":[
     {
-      "title":"whitelist_children"
+      "title":"whitelist_children",
       "url":"https://github.com/mbunse/whitelist_children/blob/master/whitelist.txt"
     }
   ]
