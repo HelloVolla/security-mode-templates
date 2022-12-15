@@ -36,8 +36,12 @@
   ],
   "whiteList":[
     {
-      "title":"whitelist_children",
-      "url":"https://github.com/mbunse/whitelist_children/blob/master/whitelist.txt"
+      "title":"Whitelist for children",
+      "url":"https://github.com/mbunse/whitelist_children/archive/refs/heads/master.zip"
+    },
+    {
+      "title":"Generic whitelist",
+      "url":"whitelist_children.txt"
     }
   ]
 }
