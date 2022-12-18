@@ -32,12 +32,22 @@
     },
     { "title":"Scam",
       "url":"https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt"
+    },
+    { "title":"Tracking",
+      "url":"https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt"
+    },
+    { "title":"Gambling",
+      "url":"https://blocklistproject.github.io/Lists/alt-version/gambling-nl.txt"
+    },
+    { "title":"Porn",
+      "url":"https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt"
     }
+    
   ],
   "whiteList":[
     {
       "title":"Whitelist for children",
-      "url":"https://github.com/mbunse/whitelist_children/archive/refs/heads/master.zip"
+      "url":"https://raw.githubusercontent.com/mbunse/whitelist_children/master/whitelist.txt"
     },
     {
       "title":"Generic whitelist",
