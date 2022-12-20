@@ -47,11 +47,11 @@
   "whiteList":[
     {
       "title":"Whitelist for children",
-      "url":"https://raw.githubusercontent.com/mbunse/whitelist_children/master/whitelist.txt"
+      "url":"https://raw.githubusercontent.com/HelloVolla/security-mode-templates/master/whiteList_volla.txt"
     },
     {
       "title":"Generic whitelist",
-      "url":"whitelist_children.txt"
+      "url":"https://raw.githubusercontent.com/HelloVolla/security-mode-templates/master/whitelist_children.txt"
     }
   ]
 }
