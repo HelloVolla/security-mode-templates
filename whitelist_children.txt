@@ -1,2 +1,3 @@
 # Enter web domains that are suitable for children, each address in a new line. 
 blinde-kuh.de
+volla.tech
