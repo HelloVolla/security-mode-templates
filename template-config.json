@@ -1,57 +1,72 @@
 {
+  "version":"1.1",
   "blackList": [
     {
       "title":"Abuse",
-      "url":"https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt"
+      "url":"https://blocklistproject.github.io/Lists/alt-version/abuse-nl.txt",
+      "version":"1.1"
     },
     {
       "title":"Ads",
-      "url":"https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt"
+      "url":"https://blocklistproject.github.io/Lists/alt-version/ads-nl.txt",
+      "version":"1.1"
     },
     { "title":"Drugs",
-      "url":"https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt"
+      "url":"https://blocklistproject.github.io/Lists/alt-version/drugs-nl.txt",
+      "version":"1.1"
     },
     {
       "title":"Fraud",
-      "url":"https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt"
+      "url":"https://blocklistproject.github.io/Lists/alt-version/fraud-nl.txt",
+      "version":"1.1"
     },
     {
       "title":"Malware",
-      "url":"https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt"
+      "url":"https://blocklistproject.github.io/Lists/alt-version/malware-nl.txt",
+      "version":"1.1"
     },
     { "title":"Phishing",
-      "url":"https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt"
+      "url":"https://blocklistproject.github.io/Lists/alt-version/phishing-nl.txt",
+      "version":"1.1"
     },
     {
       "title":"Ransomware",
-      "url":"https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt"
+      "url":"https://blocklistproject.github.io/Lists/alt-version/ransomware-nl.txt",
+      "version":"1.1"
     },
     {
       "title":"Redirect",
-      "url":"https://blocklistproject.github.io/Lists/alt-version/redirect-nl.txt"
+      "url":"https://blocklistproject.github.io/Lists/alt-version/redirect-nl.txt",
+      "version":"1.1"
     },
     { "title":"Scam",
-      "url":"https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt"
+      "url":"https://blocklistproject.github.io/Lists/alt-version/scam-nl.txt",
+      "version":"1.1"
     },
     { "title":"Tracking",
-      "url":"https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt"
+      "url":"https://blocklistproject.github.io/Lists/alt-version/tracking-nl.txt",
+      "version":"1.1"
     },
     { "title":"Gambling",
-      "url":"https://blocklistproject.github.io/Lists/alt-version/gambling-nl.txt"
+      "url":"https://blocklistproject.github.io/Lists/alt-version/gambling-nl.txt",
+      "version":"1.1"
     },
     { "title":"Porn",
-      "url":"https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt"
+      "url":"https://blocklistproject.github.io/Lists/alt-version/porn-nl.txt",
+      "version":"1.1"
     }
     
   ],
   "whiteList":[
     {
       "title":"Whitelist for children",
-      "url":"https://raw.githubusercontent.com/mbunse/whitelist_children/master/whitelist.txt"
+      "url":"https://raw.githubusercontent.com/mbunse/whitelist_children/master/whitelist.txt",
+      "version":"1.1"
     },
     {
       "title":"Generic whitelist",
-      "url":"https://raw.githubusercontent.com/HelloVolla/security-mode-templates/master/whitelist_children.txt"
+      "url":"https://raw.githubusercontent.com/HelloVolla/security-mode-templates/master/whitelist_children.txt",
+      "version":"1.1"
     }
   ]
 }
