@@ -70,7 +70,7 @@
     },
     {
       "title":"Volla whitelist",
-      "url":"https://raw.githubusercontent.com/HelloVolla/security-mode-templates/master/whiteList_volla.txt",
+      "url":"https://raw.githubusercontent.com/HelloVolla/security-mode-templates/temp/whiteList_volla.txt",
       "version":1.3
     }
   ]
