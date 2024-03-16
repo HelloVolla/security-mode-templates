@@ -1,5 +1,5 @@
 {
-  "version":1.7,
+  "version":1.8,
   "blackList": [
     {
       "title":"Abuse",
@@ -71,7 +71,7 @@
     {
       "title":"Volla whitelist",
       "url":"https://raw.githubusercontent.com/HelloVolla/security-mode-templates/temp/whiteList_volla.txt",
-      "version":1.6
+      "version":1.7
     }
   ]
 }
