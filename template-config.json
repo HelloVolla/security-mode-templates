@@ -1,5 +1,5 @@
 {
-  "version":1.1,
+  "version":1.2,
   "blackList": [
     {
       "title":"Abuse",
@@ -66,7 +66,7 @@
     {
       "title":"Generic whitelist",
       "url":"https://raw.githubusercontent.com/HelloVolla/security-mode-templates/master/whitelist_children.txt",
-      "version":1.1
+      "version":1.2
     }
   ]
 }
