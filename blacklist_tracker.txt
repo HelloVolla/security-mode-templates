@@ -7,4 +7,19 @@ doubleclick.com
 doubleclick.net
 mng-ads.com
 crashlytics.com
-# facebook.com
+facebook.com
+adjust.com
+adobe.com
+huawei.com
+optimizely.com
+optimizelyapis.com
+scandit.com
+opencensus.io
+opentelemetry.com
+com.google.firebase.analytics
+firebase.google.com
+com.google.android.gms.measurement
+com.google.firebase.firebase_analytics
+firebaselogging-pa.googleapis.com
+crashlytics.com
+batch.com
